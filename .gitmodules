@@ -1,6 +1,3 @@
-[submodule "webapp/webapp"]
-	path = webapp/webapp
-	url = git@github.com:immobileapp/webapp.git
 [submodule "webapp"]
 	path = webapp
-	url = git@github.com:immobileapp/webapp.git
+	url = https://github.com/immobileapp/webapp
